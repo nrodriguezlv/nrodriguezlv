@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Norberto Rodríguez</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on [Keifi](https://www.keifitech.com)
+- 🔭 I’m currently working on Me
 
 - 🌱 I’m currently learning **several courses on JavaScript frameworks, Flutter, React Native and Python**
 
